@@ -1,4 +1,4 @@
-# 📊 E-Commerce Dashboard (Power BI)  
+# 📊 Power BI Dashboard  
 
 This **Power BI dashboard** provides valuable insights into **e-commerce sales, customer behavior, and product performance** using **interactive visualizations**.  
 
@@ -32,6 +32,4 @@ This **Power BI dashboard** provides valuable insights into **e-commerce sales, 
 ✅ How do customer purchasing patterns change over time?  
 ✅ What are the most profitable locations for sales?  
 ✅ Which payment methods are most frequently used?  
-
-This dashboard helps **e-commerce businesses make data driven decisions** and optimize their sales strategy! 🚀  
 
